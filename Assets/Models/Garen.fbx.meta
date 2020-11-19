@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 0ad1f8d353338644d878d4e95dd1fa3d
+timeCreated: 1468184577
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: cloth_back
+    100004: cloth_front
+    100006: //RootNode
+    100008: left_hand_armor
+    100010: legs
+    100012: light
+    100014: Main
+    100016: Plane
+    100018: right_hand_armor
+    100020: scarf
+    100022: Shoulder_deco
+    100024: Sphere
+    100026: Sword
+    100028: Sword_blade
+    100030: Sword_decob0
+    100032: Sword_decob1
+    100034: Sword_decop1
+    100036: Sword_decot0
+    100038: Sword_guard
+    100040: Sword_handle
+    100042: Sword_pommel
+    100044: upper_armor
+    400000: Body
+    400002: cloth_back
+    400004: cloth_front
+    400006: //RootNode
+    400008: left_hand_armor
+    400010: legs
+    400012: light
+    400014: Main
+    400016: Plane
+    400018: right_hand_armor
+    400020: scarf
+    400022: Shoulder_deco
+    400024: Sphere
+    400026: Sword
+    400028: Sword_blade
+    400030: Sword_decob0
+    400032: Sword_decob1
+    400034: Sword_decop1
+    400036: Sword_decot0
+    400038: Sword_guard
+    400040: Sword_handle
+    400042: Sword_pommel
+    400044: upper_armor
+    2300000: Body
+    2300002: cloth_back
+    2300004: cloth_front
+    2300006: left_hand_armor
+    2300008: legs
+    2300010: Plane
+    2300012: right_hand_armor
+    2300014: scarf
+    2300016: Shoulder_deco
+    2300018: Sphere
+    2300020: Sword_blade
+    2300022: Sword_decob0
+    2300024: Sword_decob1
+    2300026: Sword_decop1
+    2300028: Sword_decot0
+    2300030: Sword_guard
+    2300032: Sword_handle
+    2300034: Sword_pommel
+    2300036: upper_armor
+    3300000: Body
+    3300002: cloth_back
+    3300004: cloth_front
+    3300006: left_hand_armor
+    3300008: legs
+    3300010: Plane
+    3300012: right_hand_armor
+    3300014: scarf
+    3300016: Shoulder_deco
+    3300018: Sphere
+    3300020: Sword_blade
+    3300022: Sword_decob0
+    3300024: Sword_decob1
+    3300026: Sword_decop1
+    3300028: Sword_decot0
+    3300030: Sword_guard
+    3300032: Sword_handle
+    3300034: Sword_pommel
+    3300036: upper_armor
+    4300000: Plane
+    4300002: cloth_back
+    4300004: cloth_front
+    4300006: left_hand_armor
+    4300008: upper_armor
+    4300010: scarf
+    4300012: legs
+    4300014: Body
+    4300016: Shoulder_deco
+    4300018: Sphere
+    4300020: right_hand_armor
+    4300022: Sword_decop1
+    4300024: Sword_decot0
+    4300026: Sword_decob1
+    4300028: Sword_decob0
+    4300030: Sword_pommel
+    4300032: Sword_handle
+    4300034: Sword_guard
+    4300036: Sword_blade
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
